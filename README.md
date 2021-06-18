@@ -1,6 +1,4 @@
-# Project Title
-
-Data collector
+# Data collector
 
 ## Description
 
