@@ -2,9 +2,12 @@
 
 ## Description
 
-Data collector is a module that develope for collect data from Dukascopy. It will download by date range. It is part of the AlgoTrading project.
+Data collector is a module that developed for collecting data mainly from Dukascopy. It will download by date range. It is part of the AlgoTrading project.
+
 Source support:
 - Dukascopy
+
+
 Output format:
 - parquet
 - csv (in development)
